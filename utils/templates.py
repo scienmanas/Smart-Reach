@@ -1,7 +1,5 @@
 CORE_COLD_EMAIL = '''
-Hi 
-
-I am Manas Poddar, a final-year B.Tech student at the Indian Institute of Technology (IIT) Tirupati. I am currently seeking roles in the core chemical field.
+Hi, I am Manas Poddar, a final-year B.Tech student at the Indian Institute of Technology (IIT) Tirupati. I am currently seeking roles in the core chemical field.
 
 Recently, I came across_______________ and was intrigued by your work. [Mention a specific aspect of their work or a project that aligns with your interest, e.g., "Your focus on sustainable catalysts particularly caught my attention."]
 

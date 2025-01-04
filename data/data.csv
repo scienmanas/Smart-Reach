@@ -1,12 +1,3 @@
-type,company,role,email,designation,instruction
-Software Dev,Scorara,Developer,thenerdymanas@gmail.com,Software Engineer,Cold mail purpose - no company information
-Chemical Engineer,ChemCo,Process Engineer,thenerdymanas@gmail.com,Chemical Engineer,Specific company and job mentioned
-Software Dev,TechNova,Lead Developer,thenerdymanas@gmail.com,Team Lead,Cold mail purpose - opening follow-up
-Chemical Engineer,GreenChem,Environmental Analyst,thenerdymanas@gmail.com,Environmental Engineer,Specific company and job mentioned
-Software Dev,InnoTech,Backend Developer,thenerdymanas@gmail.com,Engineer,Cold mail purpose - no company information
-Chemical Engineer,PetroTech,Refinery Engineer,thenerdymanas@gmail.com,Petroleum Engineer,Specific company and job mentioned
-Software Dev,CodeCrafters,Frontend Developer,thenerdymanas@gmail.com,UI/UX Engineer,Cold mail purpose - no company information
-Chemical Engineer,BioSynth,Bio Process Engineer,thenerdymanas@gmail.com,Biochemical Engineer,Specific company and job mentioned
-Software Dev,NextGenSoft,Fullstack Developer,thenerdymanas@gmail.com,Software Architect,Cold mail purpose - no company information
-Chemical Engineer,IndustrialTech,Quality Control Engineer,thenerdymanas@gmail.com,QC Engineer,Specific company and job mentioned
-
+type,company,role,email,contact_designation,instruction
+Software Dev,Scorara,Developer,iamscientistmanas@gmail.com,Software Engineer,Cold mail purpose - no company information
+Chemical Engineer,ChemCo,Process Engineer,iamscientistmanas@gmail.com,Chemical Engineer,Specific company and job mentioned
